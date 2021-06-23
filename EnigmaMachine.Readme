@@ -1,0 +1,18 @@
+Enigma Machine
+
+A simple Java implementation of the Enigma machine.
+Currently has 10 Rotors but can be expanded by adding to the Enigma Class.
+
+To use run the .jar file from the command line with the following arguments
+
+Rotor to use for rotor position 1, 
+Rotor to use for rotor position 2, 
+Rotor to use for rotor position 3, 
+the Initial positions for the Three Rotors, 
+Whether to encrypt or decrypt. 
+
+e.g 
+1 2 3 ### encrypt
+5 2 10 AZ# decrypt
+
+Then enter message to encrypt or decrypt and press enter.
